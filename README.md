@@ -17,7 +17,7 @@ https://www.udemy.com/course/modern-html-css-from-the-beginning/
 
 |Section|Topics and Challenges|Screenshots|
 |:--|:--|:--:|
-|**Section 1**| How to set up VSCode. I skipped this section as I had learnt this before.|*No Screenshots*|
-|**Section 2**| It had been a while since I had used HTML so I decided to not skip this section and study all of the following concepts from scratch. This section also included a challenge, but I felt it was to simple so I decided to make my own basic HTML website on top of the challenge. *Doctype & Basic Layout,Setting Up Live Server (VSCode Extension), Meta Tags & Search Engines, Headings, Paragraphs & Typography, Links, Images & Attributes, Lists & Tables, Forms & Input, Block & Inline Level Elements, Divs & Spans, Classes & Ids, HTML Entities, and HTML5 Semantic Tags.* | |
+|Section 1: **Introduction**| How to set up VSCode. I skipped this section as I had learnt this before.|*No Screenshots*|
+|Section 2 **HTML Basics**| It had been a while since I had used HTML so I decided to not skip this section and study all of the following concepts from scratch. This section also included a challenge, but I felt it was to simple so I decided to make my own basic HTML website on top of the challenge. *Doctype & Basic Layout,Setting Up Live Server (VSCode Extension), Meta Tags & Search Engines, Headings, Paragraphs & Typography, Links, Images & Attributes, Lists & Tables, Forms & Input, Block & Inline Level Elements, Divs & Spans, Classes & Ids, HTML Entities, and HTML5 Semantic Tags.* |<img src="https://github.com/thompson-dean/100-Days-of-SwiftUI/blob/main/3_Project2/screenshots/screen01.png" width=20% height=20%> |
 
 
