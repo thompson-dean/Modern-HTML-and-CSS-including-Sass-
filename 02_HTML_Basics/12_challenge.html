@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.4;
+      }
+      ul {
+        padding: 0;
+        list-style: none;
+      }
+      header,
+      footer {
+        background: rgb(95, 88, 88);
+        color: white;
+        padding: 10px;
+      }
+      section {
+        padding: 10px;
+      }
+      .section_background {
+        border: 1px solid #ddd;
+        background: #f4f4f4;
+        padding: 20px;
+        margin-bottom: 10px;
+      }
+      .centered_text {
+        text-align: center;
+      }
+      .clr {
+        clear: both;
+      }
+
+      #sidebar {
+        float: right;
+        width: 29%;
+      }
+      #main {
+        float: left;
+        width: 69%;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>My Website</h1>
+      <p>Just Another Website</p>
+    </header>
+    <br />
+    <main id="main">
+      <section class="section_background">
+        <h2>Welcome To Our Website</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore
+          ratione aperiam dolor quos eius nobis error natus quasi voluptates,
+          numquam voluptatum quisquam voluptate eveniet hic ab optio dolorum.
+          Asperiores, praesentium facere. Veniam excepturi inventore consequatur
+          adipisci corrupti aspernatur incidunt a beatae, nemo id sequi sit,
+          accusamus numquam, amet laboriosam aut.
+        </p>
+        <p class="centered_button">
+          <a href="#">Click For More</a>
+        </p>
+      </section>
+      <section>
+        <h2>From Our Blog</h2>
+        <article>
+          <h4>Article One</h4>
+          <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat
+            ea doloribus non laudantium molestiae totam consequatur recusandae
+            libero fugiat sint!
+          </p>
+        </article>
+        <article>
+          <h4>Article Two</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse autem
+            praesentium eligendi sint, culpa sit iure soluta velit corrupti
+            officiis.
+          </p>
+        </article>
+      </section>
+    </main>
+    <aside class="section_background" id="sidebar">
+      <h3>Navigation</h3>
+      <nav>
+        <ul>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+
+      <hr />
+      <h3>Contact Us</h3>
+      <ul>
+        <li><strong>Address:</strong> 123 Jazz St, Jazzington, MA</li>
+        <li><strong>Phone:</strong> 08067582341</li>
+        <li><strong>Email:</strong> jazzcat@gmail.com</li>
+      </ul>
+    </aside>
+    <div class="clr"></div>
+    <footer>
+      <p class="centered_text">Copyright &copy; My Website 2022</p>
+    </footer>
+  </body>
+</html>
