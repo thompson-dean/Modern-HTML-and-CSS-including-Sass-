@@ -1,0 +1,75 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: #344a72;
+}
+
+a {
+  text-decoration: none;
+}
+footer {
+  background-color: #344a72;
+  padding-top: 10px;
+}
+footer p {
+  text-align: center;
+  color: white;
+  font-size: small;
+}
+footer a {
+  color: #49c1a2;
+}
+#container {
+  margin-top: 10%;
+  margin-left: 33%;
+  margin-right: 33%;
+  width: 300px;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+.heading {
+  text-align: center;
+  padding: 20px;
+}
+#btn {
+  margin-top: 5px;
+  width: 84%;
+  text-align: center;
+  background: #49c1a2;
+  color: white;
+  border: none;
+  font-size: 12px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.heading h1 {
+  padding-bottom: 10px;
+}
+
+.form-group {
+  padding: 10px;
+}
+
+.form-group label {
+  display: block;
+  padding-left: 15px;
+  text-align: left;
+}
+
+.form-group input {
+  width: 90%;
+  text-align: center;
+  padding: 5px;
+}
+
+#bottom-text {
+  font-size: small;
+  padding: 15px 20px;
+}
